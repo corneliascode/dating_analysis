@@ -1,7 +1,6 @@
-# Analysis of a dataset using Random Forest
+# Analysis of a SpeedDating dataset using Random Forest
 ### 'Like' or 'intelligence' matter the most?
 
-![Importance Plot](random_forest.PNG?raw=true "Importance Plot")
 
 #### Introduction
 - For this project I use speeddating dataset available in the reference section  to analyse what are the most important attributes for this kind of dating, using random forest. At the end of the analysis for the both models I take a look at the feature importance of each variable
@@ -36,9 +35,8 @@
 6. In the end I create a feature importance plot
 
 #### Results:
+![Importance Plot](random_forest.PNG?raw=true "Importance Plot")
 
-- The results indicades that liking is the most important attribute folow by a similar attribute: if the partner is attractive.
-Other attributes like intelligence, ambition and even age are not so important according to this analysis
 
 #### Contributing
 Third-Party Libraries:
